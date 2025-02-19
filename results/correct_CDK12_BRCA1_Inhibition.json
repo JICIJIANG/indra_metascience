@@ -1,0 +1,11 @@
+[
+  {
+    "stmt_id": "49134a48-80a9-4076-a053-4b61664b4273",
+    "subj": "CDK12",
+    "obj": "BRCA1",
+    "relationship": "Inhibition",
+    "pmid": "31619387",
+    "year": 2019,
+    "evidence_text": "Here , we showed that reducing BRCA1 expression , either by CDK12 or BRCA1 depletion , led to metabolic reprogramming of ovarian cancer cells , causing decreased mitochondrial respiration and reduced ATP levels ."
+  }
+]
